@@ -42,8 +42,12 @@ The CTFL-AT certification is perfect for:
 - Individuals planning to **adopt Agile practices** in the near future.
 - Those working in organizations transitioning to Agile.
 
-**Eligibility Requirement**:  
-- Candidates must hold the **Certified Tester Foundation Level (CTFL)** certification (Version 4 or earlier) before taking the CTFL-AT exam.
+Eligibility Requirement:
+
+Candidates must hold the Certified Tester Foundation Level (CTFL) certification (Version 4 or earlier) before taking the CTFL-AT exam. 
+
+If you need any help regarding the CTFL certification, here is a guideline from me: [CTFL Certification Guide](https://github.com/masaid2244/ISTQB-CTFL-Certification-Guide-PK-By-Masaid-Zeb)
+
 ________________________________________
 
 🗓 **ISTQB® Agile Exam Schedule**
@@ -56,7 +60,7 @@ The ISTQB® Agile certification exam is conducted **monthly in Pakistan**. 📅
 Follow these **simple steps** to register for the ISTQB® Agile certification exam:
 
 1. **Register on the PSTB Website**  
-   Secure your spot for the exam by completing the registration on the **official PSTB website**. 🌍✨
+   Secure your spot for the exam by completing the registration on the [**official PSTB website**](https://pstb.pk/). 🌍✨
 
 2. **Fee Details**  
    The exam fee is **PKR 25,000**. A **worthy investment** in your career as a certified Agile tester. 💼📈
@@ -68,7 +72,8 @@ If you're a **Punjab resident**, you might be eligible for **100% fee reimbursem
 
 To claim your reimbursement:
 
-1. **Register on the PITB Portal.**
+1. **Register on the PITB Portal.**  
+   Secure your spot for the exam by completing the registration on the [**official PITB portal**](https://certifications.pitb.gov.pk/). 🌍✨
 2. Complete your exam registration on the **PSTB website**.
 3. After passing, **submit your challan** via the PITB portal to claim your reimbursement.
 
