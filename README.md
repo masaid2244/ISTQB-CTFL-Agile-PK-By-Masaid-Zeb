@@ -244,7 +244,7 @@ ________________________________________
 
 ## 🔗 Useful Links
 
-- **[PSTB Registration](https://www.pstb.gov.pk)** – Register for the ISTQB® exams through the official PSTB portal.
+- **[PSTB Registration](https://pstb.pk/)** – Register for the ISTQB® exams through the official PSTB portal.
 - **[ISTQB Official Site](https://www.istqb.org)** – Official ISTQB® website for certification details and resources.
 - **[Sample Exams](https://istqb.org/certifications/certified-tester-foundation-level-agile-tester-ctfl-at/)** – Official ISTQB® sample exams to help you practice the real exam format.
 
