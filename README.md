@@ -147,7 +147,7 @@ The **ISTQB® Agile Tester (CTFL-AT)** certification equips testers with the ski
 
 **Chapter 3** is **the most important** and will likely make up the **majority** of the questions in the exam. Focus your preparation heavily on understanding **testing methods**, **tools**, and **risk-based estimation** from this chapter.
 
-## 📚 Pro Tips for ISTQB® Success – Detailed Study Guide
+## 📚 Pro Tips for ISTQB® Success – Study Guide
 
 - 📘 **Read Official Course Material Thoroughly:**  
   The most effective way to prepare is by focusing on the official syllabus and study materials. Read through the material 2-3 times to fully absorb all key concepts and details. This helps reinforce your understanding and ensures you're familiar with all the topics covered in the exam.
@@ -174,18 +174,11 @@ After analyzing the data surrounding the **ISTQB® Agile Tester** certification,
 
 
 ## 📊 Certification Trend: CTFL vs. Agile Tester
-
-While **Agile Tester** certifications are gaining momentum, they still lag behind the more widely pursued **CTFL** certification. This suggests that while many testers recognize the value of the **CTFL**, fewer are pursuing the **Agile Tester** certification, despite Agile methodologies becoming increasingly important in modern software development.
-
 Key Insights:
 
 - The **Agile Tester** certification has been growing steadily each year, but the number of people taking it remains relatively low compared to the CTFL.
 - In **2023**, the **Agile Tester** certification reached its peak with **40 certifications** issued. However, 2025 is projected to see around **25–30 certifications** by the end of the year, indicating steady but slow growth.
 - The **CTFL** certification continues to be the primary focus for most testers, with Agile-specific certifications still somewhat underrecognized.
-
-
-## 📊 Visualization of Certification Trend
-
 Here’s a visual representation of the **Agile Tester** certification trend over the years:
 
 - **2025**: ██████████████████████ (21)
@@ -217,7 +210,7 @@ Here’s a visual representation of the **Agile Tester** certification trend ove
 
 | **Year** | **CTFL Certifications**                                     | **Agile Tester Certifications**           |
 |----------|--------------------------------------------------------------|-------------------------------------------|
-| **2025** | █████████████████████████████████████████████████ (1600)  | ██████████ (160)                         |
+| **2025** | █████████████████████████████████████████████████ (1700)  | ██████████ (160)                         |
 
 
 ## 🧐 Main Reasons for Lower Adoption:
@@ -274,7 +267,7 @@ If you have any questions or need assistance, feel free to reach out to me. I'm 
 ## 🤝 Let's Connect!
 
 - **📧 Email**: masaid.zeb2244@gmail.com
-- **🔗 LinkedIn**: [Masaid Zeb ISTQB® (CTFL)](https://www.linkedin.com/in/masaid-sqa/)
+- **🔗 LinkedIn**: [Masaid Zeb ISTQB® (CTFL,CTFL-AT)](https://www.linkedin.com/in/masaid-sqa/)
 - **📱 WhatsApp**: 03240907223
 
 
